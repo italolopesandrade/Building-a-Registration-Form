@@ -1,4 +1,7 @@
-# Building-a-Registration-Form
+<a href="https://building-a-registration-form.vercel.app/">
+    <img src="https://img.shields.io/badge/CLICK HERE FOR SEE DEMO-at Vercel.app-238636?style=flat-square&logo=github" alt="Button"/>
+</a>
+
 Preview 1:
 
 ![image](https://github.com/user-attachments/assets/af6d272a-7c10-479d-ad34-0ab9bc8017cc)
